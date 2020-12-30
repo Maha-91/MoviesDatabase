@@ -6,7 +6,7 @@
 
 body {
   font-family: "montserrat", sans-serif;
-  background-color: #160341;
+  background-color: #2e032e;
 }
 
 header {
@@ -14,7 +14,7 @@ header {
 }
 
 header h1 {
-  color: rgb(235, 214, 33);
+  color: rgb(76, 151, 14);
   font-size: 48px;
   font-weight: 500;
   text-align: center;
@@ -39,10 +39,10 @@ section {
   outline: none;
   background: none;
 
-  background-color: rgb(73, 202, 224);
+  background-color: rgb(104, 192, 82);
   border-radius: 8px;
 
-  color: #010116e0;
+  color: #33032be0;
   font-size: 20px;
   font-weight: 300;
 
@@ -50,7 +50,7 @@ section {
 }
 
 .searchbox:focus {
-  box-shadow: 0px 0px 8px 3px #4484c4;
+  box-shadow: 0px 0px 8px 3px #17c73d;
 }
 
 .results {
